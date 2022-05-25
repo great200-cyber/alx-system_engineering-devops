@@ -1,2 +1,2 @@
 #!/bin/bash
-in -s /bin/sh ls
+In -s /bin/sh ls
