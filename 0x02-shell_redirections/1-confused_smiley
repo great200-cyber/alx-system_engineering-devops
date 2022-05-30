@@ -1,2 +1,5 @@
 #!/bin/bash
-\"\(\Ô\o\)\
+echo '\"\(\Ô\o\)\' >> 1-confused_smiley
+
+
+
